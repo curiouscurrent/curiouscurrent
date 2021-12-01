@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @curiouscurrent
 - 👀 I’m interested in learning about new technologies,more interested to learn about deep learning
-- 🌱 I’m currently learning python
+- 🌱 I’m learning java
 - 📫 How to reach me ...you can reach me on linkedin
 
 <!---
