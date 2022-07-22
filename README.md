@@ -3,7 +3,7 @@
 - 🌱 I’m a coding newbie
 -  follow my repositry to know about my ongoing projects
 -  link for repositry : 1) https://github.com/curiouscurrent/100-days-of-code
-                        2)
+                        2) https://github.com/curiouscurrent/codinggirl_anusharepo
 
 <!---
 curiouscurrent/curiouscurrent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
