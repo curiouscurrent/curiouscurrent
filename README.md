@@ -2,7 +2,8 @@
 - 👀 I’m interested in learning about neural networks and hacking as of now.
 - 🌱 I’m a coding newbie
 -  follow my repositry to know about my ongoing projects
--  link for repositry :
+-  link for repositry : 1) https://github.com/curiouscurrent/100-days-of-code
+                        2)
 
 <!---
 curiouscurrent/curiouscurrent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
