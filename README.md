@@ -3,3 +3,4 @@
 </div>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/curiouscurrent.png" alt="TryHackMe">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=curiouscurrent)](https://git.io/streak-stats)
