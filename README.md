@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=curiouscurrent" alt="curiouscurrent" /></a> </p>
 
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/curiouscurrent.png" alt="TryHackMe">
-</p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/curiouscurrent.png" alt="TryHackMe">
 
 
 <p align="left"> <a href="https://twitter.com/here_is_dj" target="blank"><img src="https://img.shields.io/twitter/follow/cutiepieee314?logo=twitter&style=for-the-badge" alt="cutiepieee314" /></a> </p>
