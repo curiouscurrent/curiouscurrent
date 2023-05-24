@@ -6,13 +6,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=curiouscurrent" alt="curiouscurrent" /></a> </p>
 
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/curiouscurrent.png" alt="TryHackMe">
 <a href="https://cloud.appwrite.io/card/645e189447ecb79fd8bd">
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=645e189447ecb79fd8bd" alt="Appwrite Cloud Card" />
 </a>
 
 
-<p align="left"> <a href="https://twitter.com/here_is_dj" target="blank"><img src="https://img.shields.io/twitter/follow/cutiepieee314?logo=twitter&style=for-the-badge" alt="cutiepieee314" /></a> </p>
+<p align="left"> <a href="https://twitter.com/cutiepieee314" target="blank"><img src="https://img.shields.io/twitter/follow/cutiepieee314?logo=twitter&style=for-the-badge" alt="cutiepieee314" /></a> </p>
+
+[![curiouscurrent's GitHub | Stats](https://stats.quine.sh/curiouscurrent/github?theme=dark)](https://quine.sh)
 
 - 🌱 I’m currently learning **DSA AND ETHICAL HACKING**
 
@@ -23,6 +26,8 @@
 - 📫 How to reach me **divakardivi1963@gmail.com**
 
 - ⚡ Fun fact **want to get your system compromised ?**
+
+[![curiouscurrent's GitHub | Languages Over Time](https://stats.quine.sh/curiouscurrent/languages-over-time?theme=dark)](https://quine.sh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
